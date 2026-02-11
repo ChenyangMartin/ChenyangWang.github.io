@@ -49,10 +49,9 @@ footer {
 
 
 .profile-photo {
-    width: 180px;
-    height: 180px;
-    border-radius: 50%;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto 20px auto;
+    width: 200px;          /* adjust size if needed */
+    height: auto;          
+    display: block;        /* centers the image */
+    margin: 0 auto 20px;   /* space below the image */
 }
+
