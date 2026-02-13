@@ -49,7 +49,7 @@ footer {
 
 
 .profile-photo {
-    width: 200px;          /* adjust size if needed */
+    width: 600px;          /* adjust size if needed */
     height: auto;          
     display: block;        /* centers the image */
     margin: 0 auto 20px;   /* space below the image */
